@@ -1,0 +1,53 @@
+{
+  "proyecto": {
+    "nombre": "Proyecto de Desarrollo",
+    "descripcion": "Gestión de tareas del equipo"
+  },
+  "tablero": {
+    "nombre": "Tablero Principal",
+    "listas": [
+      {
+        "id": "lista-1",
+        "nombre": "Por Hacer",
+        "tarjetas": [
+          {
+            "id": "tarjeta-1",
+            "titulo": "Configurar el entorno de desarrollo",
+            "descripcion": "Instalar Node.js y configurar el proyecto",
+            "etiqueta": "Setup"
+          },
+          {
+            "id": "tarjeta-2",
+            "titulo": "Diseñar la base de datos",
+            "descripcion": "Crear el diagrama ER y las tablas necesarias",
+            "etiqueta": "Diseño"
+          }
+        ]
+      },
+      {
+        "id": "lista-2",
+        "nombre": "En Progreso",
+        "tarjetas": [
+          {
+            "id": "tarjeta-3",
+            "titulo": "Implementar autenticación",
+            "descripcion": "Sistema de login y registro de usuarios",
+            "etiqueta": "Backend"
+          }
+        ]
+      },
+      {
+        "id": "lista-3",
+        "nombre": "Completado",
+        "tarjetas": [
+          {
+            "id": "tarjeta-4",
+            "titulo": "Crear repositorio en GitHub",
+            "descripcion": "Inicializar el proyecto con Git",
+            "etiqueta": "Setup"
+          }
+        ]
+      }
+    ]
+  }
+}
