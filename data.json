@@ -21,6 +21,12 @@
             "titulo": "Diseñar la base de datos",
             "descripcion": "Crear el diagrama ER y las tablas necesarias",
             "etiqueta": "Diseño"
+          },
+          {
+            "id": "tarjeta-1771368910880",
+            "titulo": "money",
+            "descripcion": "alo\r\n",
+            "etiqueta": "Setup"
           }
         ]
       },
